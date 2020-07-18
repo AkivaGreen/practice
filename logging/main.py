@@ -32,8 +32,8 @@ def readFrontLidar():
     try:
         start = datetime.now()
         while (datetime.now() - start).seconds < 10:
-            #data = {'lidar': 'F', 'distance': 200, 'strength': 3000, 'now': datetime.now()}
-            front_lidar_logger.info("test")
+            data = {'lidar': 'F', 'distance': 200, 'strength': 3000, 'now': datetime.now()}
+            front_lidar_logger.info(str(data))
             time.sleep(0.5)
     except KeyboardInterrupt:
         print("Front Lidar Thread Stopping...")
@@ -43,8 +43,8 @@ def readBackLidar():
     try:
         start = datetime.now()
         while (datetime.now() - start).seconds < 10:
-            #data = {'lidar': 'B', 'distance': 300, 'strength': 2000, 'now': datetime.now()}
-            back_lidar_logger.info("test")
+            data = {'lidar': 'B', 'distance': 300, 'strength': 2000, 'now': datetime.now()}
+            back_lidar_logger.info(str(data))
             time.sleep(0.5)
     except KeyboardInterrupt:
         print("Back Lidar Thread Stopping...")

@@ -58,3 +58,23 @@
 2020-07-18 11:55:44,299 - front_lidar - INFO: test
 2020-07-18 11:55:44,811 - front_lidar - INFO: test
 2020-07-18 11:55:45,325 - front_lidar - INFO: test
+2020-07-18 12:01:45,256 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 45, 257000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:45,763 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 45, 763000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:46,273 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 46, 273000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:46,776 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 46, 776000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:47,280 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 47, 281000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:47,795 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 47, 795000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:48,298 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 48, 298000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:48,809 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 48, 810000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:49,319 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 49, 320000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:49,835 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 49, 835000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:50,335 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 50, 336000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:50,851 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 50, 851000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:51,355 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 51, 355000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:51,855 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 51, 856000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:52,368 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 52, 369000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:52,871 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 52, 872000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:53,384 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 53, 385000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:53,888 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 53, 889000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:54,391 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 54, 392000), 'strength': 3000, 'lidar': 'F'}
+2020-07-18 12:01:54,907 - front_lidar - INFO: {'distance': 200, 'now': datetime.datetime(2020, 7, 18, 12, 1, 54, 907000), 'strength': 3000, 'lidar': 'F'}
