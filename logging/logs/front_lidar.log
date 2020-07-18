@@ -1,0 +1,3 @@
+2020-07-18 11:44:59,184 - front_lidar - WARNING: warn message
+2020-07-18 11:44:59,184 - front_lidar - ERROR: error message
+2020-07-18 11:44:59,184 - front_lidar - CRITICAL: critical message
